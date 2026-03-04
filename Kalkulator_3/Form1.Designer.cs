@@ -179,7 +179,7 @@
             button13.Name = "button13";
             button13.Size = new Size(75, 39);
             button13.TabIndex = 13;
-            button13.Text = "x";
+            button13.Text = "*";
             button13.UseVisualStyleBackColor = true;
             button13.Click += button13_Click;
             // 
@@ -189,7 +189,7 @@
             button14.Name = "button14";
             button14.Size = new Size(75, 30);
             button14.TabIndex = 14;
-            button14.Text = ":";
+            button14.Text = "/";
             button14.UseVisualStyleBackColor = true;
             button14.Click += button14_Click;
             // 

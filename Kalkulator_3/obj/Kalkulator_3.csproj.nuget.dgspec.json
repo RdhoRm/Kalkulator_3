@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PraktikuKpl\\Kalkulator_3\\Kalkulator_3\\Kalkulator_3.csproj": {}
+    "D:\\PraktikumKpl\\PKMKontruksiPL1\\Kalkulator_3\\Kalkulator_3\\Kalkulator_3.csproj": {}
   },
   "projects": {
-    "D:\\PraktikuKpl\\Kalkulator_3\\Kalkulator_3\\Kalkulator_3.csproj": {
+    "D:\\PraktikumKpl\\PKMKontruksiPL1\\Kalkulator_3\\Kalkulator_3\\Kalkulator_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PraktikuKpl\\Kalkulator_3\\Kalkulator_3\\Kalkulator_3.csproj",
+        "projectUniqueName": "D:\\PraktikumKpl\\PKMKontruksiPL1\\Kalkulator_3\\Kalkulator_3\\Kalkulator_3.csproj",
         "projectName": "Kalkulator_3",
-        "projectPath": "D:\\PraktikuKpl\\Kalkulator_3\\Kalkulator_3\\Kalkulator_3.csproj",
+        "projectPath": "D:\\PraktikumKpl\\PKMKontruksiPL1\\Kalkulator_3\\Kalkulator_3\\Kalkulator_3.csproj",
         "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-        "outputPath": "D:\\PraktikuKpl\\Kalkulator_3\\Kalkulator_3\\obj\\",
+        "outputPath": "D:\\PraktikumKpl\\PKMKontruksiPL1\\Kalkulator_3\\Kalkulator_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

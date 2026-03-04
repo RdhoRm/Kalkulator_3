@@ -82,15 +82,15 @@ namespace Kalkulator_3
                     textBox1.Text = hasil.ToString();
                     break;
                 case "-":
-                    hasil = angka1 + angka2;
+                    hasil = angka1 - angka2;
                     textBox1.Text = hasil.ToString();
                     break;
-                case "x":
-                    hasil = angka1 + angka2;
+                case "*":
+                    hasil = angka1 * angka2;
                     textBox1.Text = hasil.ToString();
                     break;
-                case ":":
-                    hasil = angka1 + angka2;
+                case "/":
+                    hasil = angka1 / angka2;
                     textBox1.Text = hasil.ToString();
                     break;
             }
@@ -108,7 +108,7 @@ namespace Kalkulator_3
 
         private void button13_Click(object sender, EventArgs e)
         {
-            operasi = "x";
+            operasi = "*";
 
             angka1 = double.Parse(textBox1.Text);
 
@@ -117,7 +117,7 @@ namespace Kalkulator_3
 
         private void button14_Click(object sender, EventArgs e)
         {
-            operasi = ":";
+            operasi = "/";
 
             angka1 = double.Parse(textBox1.Text);
 
